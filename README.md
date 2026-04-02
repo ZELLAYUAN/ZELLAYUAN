@@ -1,7 +1,7 @@
 # Nikolas Yuan Zella
 
-🎮 Gamer and Aspiring Voice Actor
-💻 Learning the ways of WebDev
+- 🎮 Gamer and Aspiring Voice Actor
+- 💻 Learning the ways of WebDev
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guhlima01-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
