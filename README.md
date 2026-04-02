@@ -1,6 +1,6 @@
 # Nikolas Yuan Zella
 
-Hey there, my name is Nikolas. I'm just your average dude from Brazil with ambitions related to VA work and a casual gamer.
+Hey there, my name is Nikolas. I'm just your average dude from Brazil with ambitions related to VA work who's also a casual gamer.
 <p>
   
 </p>
