@@ -1,5 +1,10 @@
 # Nikolas Yuan Zella
 
+Hey there, my name is Nikolas. I'm just your average dude from Brazil with ambitions related to VA work and a casual gamer.
+<p>
+  
+</p>
+
 - 🎮 Gamer and Aspiring Voice Actor
 - 💻 Learning the ways of WebDev
 
